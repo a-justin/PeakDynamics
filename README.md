@@ -114,3 +114,4 @@ Frontend: React build folder
 Database: import SQL or connect to cloud MySQL
 
 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
